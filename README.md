@@ -59,7 +59,7 @@ import psycopg2.extras
 hostname='localhost'
 database='WEM data'
 username='postgres'
-pwd='1357'
+pwd='1111'
 port_id=5432
 conn=None
 cur=None
